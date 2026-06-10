@@ -2,9 +2,9 @@
 
 Submitted by: Kritazya Upreti
 
-About this web app: **App description here**
+About this web app: **This web app is a video game boss encyclopedia built using Node.js, Express, and plain HTML. It displays a collection of at least five bosses, each shown as a styled card with key attributes such as name, game, and difficulty. Users can click on each boss to view a dedicated detail page with full information, with routing handled dynamically using Express. The app is styled using PicoCSS and includes proper 404 handling for invalid routes.**
 
-Time spent: **X** hours
+Time spent: **7** hours
 
 ## Required Features
 
@@ -35,11 +35,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/puW4L8w.gif' title='Boss Encylopedia - Video WalkThrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 
-GIF created with ... Add GIF tool here
+GIF created with Kap
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
