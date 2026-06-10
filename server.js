@@ -43,7 +43,6 @@ app.get("/", (req, res) => {
             <p><strong>Difficulty:</strong> ${boss.difficulty}</p>
 
             <a href="/bosses/${boss.slug}" role="button">View Details</a>
-
         </article>
         `;
     })
